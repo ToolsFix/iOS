@@ -79,7 +79,7 @@
     "PRIVersion_ReleaseNo": 163,
     "PairRecordProtectionClass": 4,
     "PartitionType": "GUID_partition_scheme",
-    "PasswordProtected": true,
+    "PasswordProtected": false,
     "PhoneNumber": "+84 93 8002914",
     "PkHash": "|YMhN\u07e3qe@\u0000\u1feeV\u015aH7 \u001bl&",
     "ProductName": "iPhone OS",
@@ -100,7 +100,7 @@
         1
     ],
     "TelephonyCapability": true,
-    "TimeIntervalSince1970": 1750448347.109448,
+    "TimeIntervalSince1970": 1750483123.378304,
     "TimeZone": "Asia/Ho_Chi_Minh",
     "TimeZoneOffsetFromUTC": 25200.0,
     "TrustedHostAttached": true,
