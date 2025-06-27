@@ -14,7 +14,7 @@
     "BasebandVersion": "7.03.01",
     "BluetoothAddress": "ac:88:fd:85:7d:23",
     "BoardId": 12,
-    "BootSessionID": "0218EF66-960A-4EFE-8DC0-A61D1C814A05",
+    "BootSessionID": "9C137649-626C-4CB2-AAAB-FCE1E0080A7B",
     "BrickState": true,
     "BuildVersion": "22F76",
     "CPUArchitecture": "arm64e",
@@ -93,7 +93,7 @@
         1
     ],
     "TelephonyCapability": true,
-    "TimeIntervalSince1970": 1751038049.434877,
+    "TimeIntervalSince1970": 1751038100.461386,
     "TimeZone": "Asia/Bangkok",
     "TimeZoneOffsetFromUTC": 25200.0,
     "TrustedHostAttached": true,
